@@ -1,0 +1,2 @@
+C:\Users\bsenyshyn\Downloads\Telegram Desktop\LabZoo\LabZoo\UnitTestProjectZoo\obj\Debug\UnitTestProjectZoo.csprojAssemblyReference.cache
+C:\Users\bsenyshyn\Downloads\Telegram Desktop\LabZoo\LabZoo\UnitTestProjectZoo\obj\Debug\UnitTestProjectZoo.csproj.CoreCompileInputs.cache

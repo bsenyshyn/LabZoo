@@ -1,0 +1,12 @@
+/home/bsenyshyn/RiderProjects/LabZoo/LabZoo/bin/Debug/LabZoo.exe
+/home/bsenyshyn/RiderProjects/LabZoo/LabZoo/bin/Debug/LabZoo.pdb
+/home/bsenyshyn/RiderProjects/LabZoo/LabZoo/obj/Debug/LabZoo.csprojResolveAssemblyReference.cache
+/home/bsenyshyn/RiderProjects/LabZoo/LabZoo/obj/Debug/LabZoo.csproj.CoreCompileInputs.cache
+/home/bsenyshyn/RiderProjects/LabZoo/LabZoo/obj/Debug/LabZoo.exe
+/home/bsenyshyn/RiderProjects/LabZoo/LabZoo/obj/Debug/LabZoo.pdb
+C:\Users\bsenyshyn\Downloads\Telegram Desktop\LabZoo\LabZoo\LabZoo\bin\Debug\LabZoo.exe
+C:\Users\bsenyshyn\Downloads\Telegram Desktop\LabZoo\LabZoo\LabZoo\bin\Debug\LabZoo.pdb
+C:\Users\bsenyshyn\Downloads\Telegram Desktop\LabZoo\LabZoo\LabZoo\obj\Debug\LabZoo.csprojAssemblyReference.cache
+C:\Users\bsenyshyn\Downloads\Telegram Desktop\LabZoo\LabZoo\LabZoo\obj\Debug\LabZoo.csproj.CoreCompileInputs.cache
+C:\Users\bsenyshyn\Downloads\Telegram Desktop\LabZoo\LabZoo\LabZoo\obj\Debug\LabZoo.exe
+C:\Users\bsenyshyn\Downloads\Telegram Desktop\LabZoo\LabZoo\LabZoo\obj\Debug\LabZoo.pdb
